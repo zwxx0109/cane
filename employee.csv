@@ -1,9 +1,9 @@
 id,firstName,lastName,pic,title,department,material,price,store,picture
-1,³æ®æÀ\²°,À\²°,p1.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:249,¥Ì­W¤H,p1.jpg
-2,Âù®æÀ\²°,À\²°,p2.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:249,¥Ì­W¤H,p2.jpg
-3,¸_¤l,À\¨ã,p3.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:35,¥Ì­W¤H,p3.jpg
-4,´ö°Í,À\¨ã,p4.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:35,¥Ì­W¤H,p4.jpg
-5,ºPÅ|ªM,ªM¤l,p5.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:399,¥Ì­W¤H,p5.jpg
-6,Àô«O³U,³U¤l,p6.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¬õ¥Ì½©,NT:109,¥Ì­W¤H,p6.jpg
-7,²Ê§lºÞ,§lºÞ,p7.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:69,¥Ì­W¤H,p7.jpg
-8,²Ó§lºÞ,§lºÞ,p8.jpg,Àô«O§÷½è,Àô«OÀ\¨ã,¥Ì½©,NT:59,¥Ì­W¤H,p8.jpg
+1,å–®æ ¼é¤ç›’,é¤ç›’,p1.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT249,ç”˜è‹¦äºº,p1.jpg
+2,é›™æ ¼é¤ç›’,é¤ç›’,p2.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT249,ç”˜è‹¦äºº,p2.jpg
+3,ç­·å­,é¤å…·,p3.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT35,ç”˜è‹¦äºº,p3.jpg
+4,æ¹¯åŒ™,é¤å…·,p4.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT35,ç”˜è‹¦äºº,p4.jpg
+5,æ‘ºç–Šæ¯,æ¯å­,p5.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT399,ç”˜è‹¦äºº,p5.jpg
+6,ç’°ä¿è¢‹,è¢‹å­,p6.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç´…ç”˜è”—,NT109,ç”˜è‹¦äºº,p6.jpg
+7,ç²—å¸ç®¡,å¸ç®¡,p7.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT69,ç”˜è‹¦äºº,p7.jpg
+8,ç´°å¸ç®¡,å¸ç®¡,p8.jpg,ç’°ä¿æè³ª,ç’°ä¿é¤å…·,ç”˜è”—,NT59,ç”˜è‹¦äºº,p8.jpg
